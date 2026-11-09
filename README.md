@@ -89,3 +89,9 @@
 * 🐛 **问题反馈**：如遇深大校园网接口变动、脚本异常或配置疑问，建议优先提交 [GitHub Issues](../../issues)，方便沉淀讨论方案。
 * ✉️ **联系邮箱**：[`120763101+bianxingdehuaji@users.noreply.github.com`](mailto:120763101+bianxingdehuaji@users.noreply.github.com) *(GitHub 隐私中转邮箱)*
 * ⭐️ 如果本套方案对你的宿舍用网体验有所改善，欢迎点个 **Star** 支持！
+
+---
+
+## 🤖  AI 协同声明 (AI Statement)
+
+本项目使用了 AI 辅助开发。
