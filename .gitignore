@@ -1,0 +1,7 @@
+*.exe
+*.o
+*.out
+*.docx
+*.png
+# VS Code 配置文件（可选）
+.vscode/
