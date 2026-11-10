@@ -17,15 +17,9 @@
 
 ---
 
-### 📡 Status: Idle but Listening
 
-```bash
-while [ "$PASSION" = "TRUE" ]; do
-    hack_the_dorm_network
-    sleep 86400
-done
-```
+欢迎交流。
 
-欢迎交流。**Keep hacking, stay hungry.** 🚀
+如果你有任何疑问，或你想联系到我：
 
-如果你有任何疑问，或你想联系到我：发送邮件至  120763101+bianxingdehuaji@users.noreply.github.com 。我会一一答复。
+发送邮件至 120763101+bianxingdehuaji@users.noreply.github.com 。我会一一答复。
