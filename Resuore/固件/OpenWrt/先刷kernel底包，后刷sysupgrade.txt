@@ -1,0 +1,1 @@
+先刷kernel底包，后刷sysupgrade!!!!!!
