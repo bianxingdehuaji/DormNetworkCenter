@@ -65,7 +65,7 @@ http://172.30.255.42:801/eportal/portal/login?callback=dr1003&login_method=1&use
 # ----------------- 用户配置区域 (按需修改) -----------------
 USER_ACCOUNT="YOUR_STUDENT_ID"    # 校园网登录学号/账号
 USER_PASSWORD="YOUR_PASSWORD"    # 校园网登录密码
-LOG_FILE="/root/scripts/szu_auth.log" # 运行日志路径
+LOG_FILE="/tmp/szu_auth.log" # 运行日志路径
 MAX_LOG_LINES=500                 # 日志最大保留行数，防止占满 Flash
 
 # ----------------- 接口与探针参数 -----------------
