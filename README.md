@@ -69,7 +69,7 @@
   *基于 Tailscale 搭建端到端点对点隧道、近场智能直连与外网穿透无缝切换、异地远程桌面 (RDP)。*
 * 🩺 **[06. 日常排障与避坑指南 (Docs/06-troubleshooting.md)](./Docs/06-troubleshooting.md)**  
   *涵盖 Bootloader 救砖、IP 漂移、QUIC 嵌套丢包排查、NLA 凭据陷阱及实用运维命令速查。*
-* ⚡ **[未完待续 (Docs/To Be Continue.md)](./Docs/To%20Be%20Continue.md)**  
+* ⚡ **[未完待续 (Docs/To-Be-Continue.md)](./Docs/To-Be-Continue.md)**  
   *未来扩展路线图（Home Assistant 边缘接入、电费监控、Docker 算力矩阵）与极客折腾记录。*
 
 ---
