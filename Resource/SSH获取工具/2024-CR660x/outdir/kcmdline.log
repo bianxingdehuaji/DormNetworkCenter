@@ -1,1 +1,0 @@
-console=ttyS0,115200 firmware=0 rootfstype=squashfs,jffs2
