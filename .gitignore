@@ -1,8 +1,24 @@
-*.exe
-*.gitignore
+# Python 缓存与运行环境临时文件
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 解锁工具运行期产生的临时文件与路由器个人备份（防硬件信息泄露）
+Resource/**/tmp/
+Resource/**/outdir/
+Resource/**/backups/
+*.bak
+*.log
+
+# 个人敏感凭据与本地配置（仅保留仓库内的 example 模板）
+*.env
+*secret*
+szu_auth_local.sh
+user_rule_local.yaml
+
+# 编译产物与编辑器配置
 *.o
 *.out
-*.docx
-*.png
-# VS Code 配置文件（可选）
 .vscode/
+.DS_Store
+Thumbsumbs.db
